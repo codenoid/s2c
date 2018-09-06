@@ -1,0 +1,20 @@
+name: s2c
+version: 0.1.0
+
+dependencies:
+  qt5:
+    github: Papierkorb/qt5.cr
+    branch: master-ready-to-use
+  sass:
+    github: straight-shoota/sass.cr
+
+authors:
+  - codenoid <jihantoro8@gmail.com>
+
+targets:
+  s2c:
+    main: src/s2c.cr
+
+crystal: 0.26.1
+
+license: MIT

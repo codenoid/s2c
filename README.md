@@ -26,7 +26,7 @@ shards build
 
 ## Development
 
-- [ ] Conver All SASS File inside folder / compressed file
+- [ ] Convert All SASS File inside folder / compressed file
 - [ ] Syntax Highlighting
 
 ## Contributing

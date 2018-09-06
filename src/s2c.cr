@@ -12,9 +12,8 @@ window.window_title = "Sass to CSS Converter"
 layout = Qt::VBoxLayout.new
 window.layout = layout
 
-# Create a label and a button, and push it into the layout
+# Create a input and a button, and push it into the layout
 button = Qt::PushButton.new "CONVERT"
-label = Qt::Label.new "Click the button!"
 input = Qt::TextEdit.new
 
 input.placeholder_text = "Put your SASS code here"

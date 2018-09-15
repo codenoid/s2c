@@ -2,7 +2,7 @@
 
 My first app with Crystal-QT5
 
-![Example](https://raw.githubusercontent.com/codenoid/s2c/master/demo/s2c_demo.gif)
+![Example](https://raw.githubusercontent.com/Muonyet/s2c/master/demo/s2c_demo.gif)
 
 ## Installation
 
